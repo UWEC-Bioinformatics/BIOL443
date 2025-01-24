@@ -1,5 +1,7 @@
 # BIOL443
 
+This repo is only for helping to setup the development environment. HW exercises and projects associated with this course should be included in dedicated personal repos.
+
 To prepare the conda environment, run the following in a terminal (not a VS Code terminal):
 
 ``` bash
